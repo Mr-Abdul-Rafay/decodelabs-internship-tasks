@@ -185,7 +185,7 @@ Key functions in [`recommendation_engine.py`](/c:/Users/HOME/Desktop/Ai%20Projec
 
 ## Author
 
-DecodeLabs AI Engineer
+Abdul Rafay AI Engineer
 
 ## License
 
